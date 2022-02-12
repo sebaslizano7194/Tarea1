@@ -1,0 +1,50 @@
+#SecPrin{
+    position: absolute;
+    left: 13.5%;
+    top: 17%;
+    height: 100%;
+    width: 82%;
+    margin: 0 1.5%;
+    background-color: rgba(255,255,255,.3);
+    border-radius: 25px;
+    border: 2px solid #FFFFFF;
+    padding: 0px 0px 20px 20px;
+}
+
+#SecPrin h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    color: whitesmoke;
+}
+
+#PSeccPrin{
+    font-family: Verdana, sans-serif;
+    color: white;
+}
+
+#SecInformation{
+    position: absolute;
+    left: 0%;
+    top: 17%;
+    height: 90%;
+    width: 97%;
+    margin: 0 1.5%;
+    background-color: rgba(255,255,255,.3);
+    border-radius: 25px;
+    border: 2px solid #FFFFFF;
+    padding: 0% 0px 20px 20px;
+}
+
+#ArtiInfo{
+    position: absolute;
+    left: 0%;
+    width: 30%;
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+    margin-right: 0px
+}
