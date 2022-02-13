@@ -1,0 +1,26 @@
+
+.secCatag{
+    position: absolute;
+    left: -1%;
+    top: 109%;
+    height: 400%;
+    width: 88.4%;
+    margin: 0 1.5%;
+    background-color: rgba(255,255,255,.3);
+    border-radius: 25px;
+    border: 2px solid #FFFFFF;
+    padding: 0px 10% 16% 1%;
+}
+
+.secCatag h2{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 500%;
+    color: whitesmoke;
+}
+
+.imgCatag{
+    width: 312px;
+    height: 312px;
+    left: 13%;
+}

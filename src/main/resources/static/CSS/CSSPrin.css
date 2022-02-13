@@ -22,7 +22,7 @@
     color: white;
 }
 
-#SecInformation{
+.SecInformation{
     position: absolute;
     left: 0%;
     top: 17%;
