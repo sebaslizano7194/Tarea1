@@ -1,0 +1,39 @@
+#ContSecc{
+    
+position: absolute;
+    left: 1.5%;
+    top: 18%;
+    height: 87%;
+    width: 96.70%;
+    border-radius: 25px;
+    border: 2px solid #FFFFFF;
+    padding: 0px 0px 20px 20px;
+}
+
+#ContSecc article{
+    padding-top: 28px;
+    width: 39%;
+    height: 100%;
+}
+
+#ContSecc article h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 90px;
+    color: white;
+    margin: auto;
+}
+
+#secondSection{
+    top: 23%;
+    left: 32%;
+    width: 67%;
+    height: 83%;
+    position: absolute;
+}
+
+#secondSection label {
+    
+    color: white;
+    font-size: 30px;
+    font-family: Verdana, sans-serif;
+}
